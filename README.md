@@ -1,16 +1,8 @@
 # travel_app_ui
 
-A new Flutter project.
+## App preview
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img height="720px" src="assets/travel_ui.png"> <img height="720px" src="assets/travel_ui1.png">
+<img height="720px" src="assets/travel_ui2.png"> <img height="720px" src="assets/travel_gif.gif">
+<br>
+Thank you <a href="https://www.youtube.com/channel/UC6Dy0rQ6zDnQuHQ1EeErGUA">Marcus Ng</a>
