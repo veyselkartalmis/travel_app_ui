@@ -2,8 +2,8 @@
 
 ## App preview
 
-<img height="720px" src="assets/travel_ui1.png"> <img height="720px" src="assets/travel_ui.png">
-<img height="720px" src="assets/travel_ui2.png"> <img height="720px" src="assets/travel_gif.gif">
+<img height="520px" src="assets/travel_ui1.png"> <img height="520px" src="assets/travel_ui.png">
+<img height="520px" src="assets/travel_ui2.png"> <img height="520px" src="assets/travel_gif.gif">
 <br>
 <br>
 <br>
